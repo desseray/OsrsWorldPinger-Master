@@ -1,0 +1,2 @@
+Run the OsrsWorldPinger.exe and it should create a csv file in the main directory
+that you can open in a spreadsheet editor such as excell and sort the ping by highest to lowest

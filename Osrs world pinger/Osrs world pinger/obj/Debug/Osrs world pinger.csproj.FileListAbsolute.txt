@@ -1,0 +1,6 @@
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\bin\Debug\Osrs world pinger.exe.config
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\bin\Debug\Osrs world pinger.exe
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\bin\Debug\Osrs world pinger.pdb
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\obj\Debug\Osrs world pinger.csprojResolveAssemblyReference.cache
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\obj\Debug\Osrs world pinger.exe
+c:\users\desseray\documents\visual studio 2015\Projects\Osrs world pinger\Osrs world pinger\obj\Debug\Osrs world pinger.pdb
